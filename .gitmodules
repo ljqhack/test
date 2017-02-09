@@ -1,3 +1,6 @@
 [submodule "sscomplus"]
 	path = sscomplus
 	url = https://github.com/ljqhack/sscomplus
+[submodule "test2"]
+	path = test2
+	url = https://github.com/ljqhack/test2
